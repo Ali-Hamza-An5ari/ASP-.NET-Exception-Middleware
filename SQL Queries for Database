@@ -4,7 +4,6 @@
 
 CREATE DATABASE ShopDB;
 
-
 CREATE TABLE [dbo].[customers] (
     [Id]          UNIQUEIDENTIFIER NOT NULL,
     [Name]        VARCHAR (255)    NOT NULL,
